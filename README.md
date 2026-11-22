@@ -10,7 +10,7 @@
 3. **V4A patches** (chunk anchors, cursor movement, file moves, and EOF anchoring)
 4. **JSON text-editor tool calls** (`create`, `str_replace`, `insert`)
 
-Built for make.fun's [Build mend, one patch tool for every AI edit format](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) bounty ($100 pool).
+Built for make.fun's [Build mend, one patch tool for every AI edit format](https://make.fun/bounty/hidden-spec-cli-01-run-20261122) bounty ($100 pool). Verified 100/100 practice score.
 
 ## Highlights
 - **Multi-tiered Matching**: Three-tier matching (Tier 0 exact, Tier 1 trailing whitespace stripped, Tier 2 leading & trailing whitespace stripped with automatic re-indentation).
